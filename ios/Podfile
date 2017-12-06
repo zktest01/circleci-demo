@@ -1,0 +1,6 @@
+
+target 'PSDemoDay2' do
+	pod "Analytics", "3.6.0"
+end
+
+## run `pod install`
